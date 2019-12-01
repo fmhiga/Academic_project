@@ -12,7 +12,7 @@ O projeto foi desenvolvido em grupo por:
 
 ## 1. Overview do Projeto
 Esse trabalho foi desenvolvido durante a especialização em Big Data Analytics realizada na [FIA](https://fia.com.br/) pelo grupo descrito acima.
-O objetivo do projeto é criar uma arquitetura de dados que atenda as necessidades de negócios da Prefeitura do Município de  Recife quanto as campanhas de prevenção  à contaminação pelo mosquito Aedes Aegypti nos próximos 2 meses.
+O objetivo do projeto é criar uma arquitetura e um modelo de dados que atenda as necessidades de negocio da Prefeitura do Município de  Recife quanto as campanhas de prevenção  à contaminação pelo mosquito Aedes Aegypti nos próximos 2 meses.
 
 **Principal análise preditiva desejada**:
 Listagem da quantidade de pessoas e relação de bairros que a prefeitura deverá fazer as campanha de prevenção para maximizar os recursos financeiros disponíveis.
